@@ -1,0 +1,5 @@
+IN html each and every element have their own
+ significance but some elements will not create
+  much impact on UI but makes code efficient and
+   SEO friendly.
+   
